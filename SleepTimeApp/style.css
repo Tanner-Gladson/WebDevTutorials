@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+}
+div.output {
+    border: 3px solid black;
+    display: none;
+}
